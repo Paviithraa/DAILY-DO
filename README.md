@@ -1,4 +1,4 @@
-# DailyDo
+# DAILY-DO
 A To-Do app
 
 Stay productive and in control with this sleek To-Do List App.
